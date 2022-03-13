@@ -3,5 +3,5 @@
 1) Clone repository
 
 2) Start program
-lab №1 - ImmutableType
-lab №2 - Inheritance, Override, Overlap
+Lab №1 - ImmutableType
+Lab №2 - Inheritance, Override, Overlap
